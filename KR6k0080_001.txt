@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:55.728364
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 梵網經菩薩戒本疏
 #+PROPERTY: CBETA_ID T40n1813
 #+PROPERTY: ID KR6k0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 40, No. 1813
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0080_T_000-0602a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0080_T_001-0602a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1813[cf.No.1484]¶
-
- 梵網經菩薩戒本疏第一¶
+No. 1813 [cf. No. 1484]¶
+梵網經菩薩戒本疏第一¶
 ¶
 魏國西寺沙門法藏撰¶
 
@@ -735,16 +734,8 @@ No.1813[cf.No.1484]¶
 十重即為十段。何等為十。如半頌曰　殺盜¶
 婬妄酒。說毀慳瞋謗。¶
 
-1初篇
-:PROPERTIES:
-:head: 初篇
-:END:
-
-1初篇
-:PROPERTIES:
-:head: 殺戒第一
-:END:
-¶
+* 初篇
+** 殺戒第一¶
 
 將釋此戒略作十門。一制意。二次第。三釋名。¶
 四具緣。五闕緣。六輕重。七得報。八通塞。九¶
@@ -801,8 +792,7 @@ No.1813[cf.No.1484]¶
 來報。受罪當知亦爾。問知殺性空。殺應無罪。
 <pb:KR6k0080_T_001-0610b>¶
 答空是罪治。知空必不殺殺。必不了空。故亦¶
-有罪。若謂無罪而作殺者。以邪見故罪重眾¶
-生於餘。何得言無罪也。
+有罪。若謂無罪而作殺者。以邪見故罪重眾生於餘。何得言無罪也。
 
 第四具緣者有二。¶
 一通二別。通緣有三。一是受菩薩戒人。以不¶

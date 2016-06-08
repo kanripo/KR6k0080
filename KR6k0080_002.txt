@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:55.775985
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 梵網經菩薩戒本疏
 #+PROPERTY: CBETA_ID T40n1813
 #+PROPERTY: ID KR6k0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 40, No. 1813
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0080_T_000-0602a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0080_T_002-0613c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 梵網經菩薩戒本疏第二¶
+梵網經菩薩戒本疏第二¶
 ¶
 魏國西寺沙門法藏撰¶
 
-2盜戒
-:PROPERTIES:
-:head: 初篇盜戒第二
-:END:
-¶
+** 初篇盜戒第二¶
 
 將釋此戒十門同前。
 
