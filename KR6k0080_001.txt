@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:55.728364
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 梵網經菩薩戒本疏
 #+PROPERTY: CBETA_ID T40n1813
 #+PROPERTY: ID KR6k0080
@@ -735,12 +735,12 @@ No.1813[cf.No.1484]¶
 十重即為十段。何等為十。如半頌曰　殺盜¶
 婬妄酒。說毀慳瞋謗。¶
 
-1初篇
+* 1初篇
 :PROPERTIES:
 :head: 初篇
 :END:
 
-1初篇
+** 1初篇
 :PROPERTIES:
 :head: 殺戒第一
 :END:
